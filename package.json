@@ -1,0 +1,16 @@
+{
+  "name": "sensiaura-external",
+  "version": "1.0.0",
+  "description": "SensiAura Free Fire External with Netlify Functions",
+  "main": "index.html",
+  "scripts": {
+    "dev": "netlify dev",
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "@netlify/blobs": "^7.0.0"
+  },
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
